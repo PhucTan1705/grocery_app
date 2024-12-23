@@ -1,6 +1,36 @@
 # Getting started with Strapi
 
-Strapi offers a lot of flexibility, its come with full [CLI](https://docs.strapi.io/dev-docs/cli)
+Strapi offers a lot of flexibility, its come with full [Command Line Interface (CLI)](https://docs.strapi.io/dev-docs/cli) which lets you scaffold and manage your project in seconds. The CLI works with both the yarn and npm package managers.
+
+# strapi develop
+
+Strapi modifies/creates files at runtime and needs to restart when new files are created. To achieve this, strapi develop adds a file watcher and restarts the application when necessary.
+
+```
+yarn strapi develop 
+# or
+npm run strapi develop
+```
+
+# strapi start
+
+Start a Strapi application with auto-reloading disabled.
+
+```
+yarn strapi start
+# or
+npm run strapi start
+```
+
+# strapi build
+
+Builds admin panel.
+
+```
+yarn strapi build
+# or
+npm run strapi build
+```
 
 # my_grocery
 
