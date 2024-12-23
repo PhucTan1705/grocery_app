@@ -31,6 +31,7 @@ yarn strapi build
 # or
 npm run strapi build
 ```
+[Learn more](https://docs.strapi.io/dev-docs/cli)
 
 # my_grocery
 
