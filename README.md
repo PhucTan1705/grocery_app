@@ -1,3 +1,7 @@
+# Getting started with Strapi
+
+Strapi offers a lot of flexibility, its come with full <a id='CLI'>https://docs.strapi.io/dev-docs/cli</a>
+
 # my_grocery
 
 A new Flutter project.
