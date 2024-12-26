@@ -40,9 +40,9 @@ A flutter e-commerce mobile application with REST API.
 Overview:
 
 <div align="center">
-  <span><img src="https://drive.google.com/uc?export=view&id=1rDg4fQMFEyDaFEebESQJZar_Mp7KrdI9" width="300" height="500" padding= "10px"></span>
-  <span><img src="https://drive.google.com/uc?export=view&id=1c8fRZn_MBzM4s7jtyGAd-bOTdEeqZ_uM" width="300" height="500" padding= "10px"></span>
-  <span><img src="https://drive.google.com/uc?export=view&id=1VBhIwCnljNyV4wF9W_GSNMiDayHfewku" width="300" height="500" padding= "10px"></span>
+  <span><img src="https://drive.google.com/uc?export=view&id=1rDg4fQMFEyDaFEebESQJZar_Mp7KrdI9" width="300" height="520" padding= "100px"></span>
+  <span><img src="https://drive.google.com/uc?export=view&id=1c8fRZn_MBzM4s7jtyGAd-bOTdEeqZ_uM" width="300" height="520" padding= "100px"></span>
+  <span><img src="https://drive.google.com/uc?export=view&id=1VBhIwCnljNyV4wF9W_GSNMiDayHfewku" width="300" height="520" padding= "100px"></span>
 </div>
 
 
