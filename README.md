@@ -2,7 +2,7 @@
 
 ## Overview:
 
-A flutter e-commerce mobile application with REST API. The app showcases a variety of E-Commerce features, such as product browsing, searching, cart and purchasing. Users can explore products, add them to their cart, and complete transactions seamlessly.
+A flutter e-commerce mobile application with REST API. The app showcases a variety of E-Commerce features, such as product browsing, searching, cart... Users can explore products, view produc detail, and add them to their cart...
 
 <div align="center">
   <span><kbd><img src="https://drive.google.com/uc?export=view&id=1rDg4fQMFEyDaFEebESQJZar_Mp7KrdI9" width="300" height="530"  hspace="10"></kbd></span>
