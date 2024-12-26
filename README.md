@@ -39,11 +39,10 @@ A flutter e-commerce mobile application with REST API.
 
 Overview:
 
-<img src="https://drive.google.com/uc?export=view&id=1rDg4fQMFEyDaFEebESQJZar_Mp7KrdI9" width="250" height="250">
+<img src="https://drive.google.com/uc?export=view&id=1rDg4fQMFEyDaFEebESQJZar_Mp7KrdI9" width="300" height="450">
+<img src="https://drive.google.com/uc?export=view&id=1c8fRZn_MBzM4s7jtyGAd-bOTdEeqZ_uM" width="300" height="450">
+<img src="https://drive.google.com/uc?export=view&id=1VBhIwCnljNyV4wF9W_GSNMiDayHfewku" width="300" height="450">
 
-![image](https://drive.google.com/uc?export=view&id=1rDg4fQMFEyDaFEebESQJZar_Mp7KrdI9)
-![image](https://drive.google.com/uc?export=view&id=1c8fRZn_MBzM4s7jtyGAd-bOTdEeqZ_uM)
-![image](https://drive.google.com/uc?export=view&id=1VBhIwCnljNyV4wF9W_GSNMiDayHfewku)
 
 ## Getting Started
 
