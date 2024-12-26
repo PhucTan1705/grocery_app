@@ -33,13 +33,21 @@ npm run strapi build
 ```
 [Learn more](https://docs.strapi.io/dev-docs/cli)
 
-# my_grocery
+# Grocery App
 
-A new Flutter project.
+A flutter e-commerce mobile application with REST API.
+
+Overview:
+
+![image](https://drive.google.com/file/d/1rDg4fQMFEyDaFEebESQJZar_Mp7KrdI9/view?usp=sharing)
+![image](https://drive.google.com/file/d/1c8fRZn_MBzM4s7jtyGAd-bOTdEeqZ_uM/view?usp=sharing)
+![image](https://drive.google.com/file/d/1VBhIwCnljNyV4wF9W_GSNMiDayHfewku/view?usp=sharing)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Install:
+- [NodeJs LTS](https://nodejs.org/en/download/package-manager)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 
 A few resources to get you started if this is your first Flutter project:
 
