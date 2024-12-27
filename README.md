@@ -13,7 +13,7 @@ A flutter e-commerce mobile application with REST API. The app showcases a varie
 
 ## Installation:
 
-1. NodeJs and Yarn:
+### 1. NodeJs and Yarn:
    
 - [NodeJs LTS](https://nodejs.org/en/download/package-manager)
 ```
@@ -31,13 +31,13 @@ npm install --global yarn
 # Check installation:
 yarn --version
 ```
-2. Getting started with Strapi
+### 2. Getting started with Strapi
 
 Strapi offers a lot of flexibility, its come with full [Command Line Interface (CLI)](https://docs.strapi.io/dev-docs/cli) which lets you scaffold and manage your project in seconds. The CLI works with both the yarn and npm package managers.
 
 [Learn more](https://docs.strapi.io/dev-docs/cli)
 
-3. Set up Strapi
+### 3. Set up Strapi
 
 - In a terminal, run the following command:
 
@@ -54,7 +54,7 @@ yarn create strapi
 
 [Learn more](https://docs.strapi.io/dev-docs/installation/cli)
 
-4. Set up project:
+### 4. Set up project:
 
 - Clone the repo
 ```
