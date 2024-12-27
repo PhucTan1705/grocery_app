@@ -1,3 +1,6 @@
+# Laguage
+[![en](https://img.shields.io/badge/lang-pt--br-green.svg)]
+[![vn](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PhucTan1705/grocery_app/blob/master/README.VN.md)
 # The Grocery App
 
 ## Tổng quan:
