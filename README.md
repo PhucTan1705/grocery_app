@@ -2,6 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/PhucTan1705/grocery_app/blob/master/README.md)
 [![vn](https://img.shields.io/badge/lang-vn-red.svg)](https://github.com/PhucTan1705/grocery_app/blob/master/README.VN.md)
 
+---
 # The Grocery App
 
 ## Overview:
